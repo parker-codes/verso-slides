@@ -220,7 +220,7 @@ center {
     top: 0;
     width: 1em;
     height: 100%;
-    background-image: linear-gradient(180deg, #42be65 15%, #009d9a 25%, #009d9a 55%, #1192e8 65%);
+    background-image: linear-gradient(180deg, #252836 10%, #00deff 40%, #ffffff 90%);
     transition-property: width;
 }
 .verso main > section {
