@@ -231,7 +231,7 @@ center {
     left: 1.5em;
     width: calc(1em * 284 / 63);
     height: 1em;
-    background-image: url(servo.png);
+    background-image: url(verso.png);
     background-size: contain;
     transition-property: left, width, height;
 }
