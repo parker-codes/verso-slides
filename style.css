@@ -210,12 +210,12 @@ center {
     /* BUG: servo/servo#29705 */
     transition-property: top, right, bottom, left;
 }
-.servo {
+.verso {
     font-family: Fira Sans;
     background: #121619;
     color: white;
 }
-.servo .bg.a {
+.verso .bg.a {
     left: 0;
     top: 0;
     width: 1em;
@@ -223,10 +223,10 @@ center {
     background-image: linear-gradient(180deg, #42be65 15%, #009d9a 25%, #009d9a 55%, #1192e8 65%);
     transition-property: width;
 }
-.servo main > section {
+.verso main > section {
     padding-left: 2em;
 }
-.servo .bg.b {
+.verso .bg.b {
     bottom: 0.5em;
     left: 1.5em;
     width: calc(1em * 284 / 63);
@@ -247,10 +247,10 @@ footer {
 main.cover ~ .bg.logo {
     opacity: 1;
 }
-.servo main.cover ~ .bg.a {
+.verso main.cover ~ .bg.a {
     width: 2em;
 }
-.servo main.cover ~ .bg.b {
+.verso main.cover ~ .bg.b {
     left: 2.5em;
     width: calc(2em * 284 / 63);
     height: 2em;
